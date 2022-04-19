@@ -1,0 +1,22 @@
+{
+  "name": "jest_testing",
+  "version": "1.0.0",
+  "description": "For Unit Testing Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaramEisa/debugging-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaramEisa/debugging-repo/issues"
+  },
+  "homepage": "https://github.com/KaramEisa/debugging-repo#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
